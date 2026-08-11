@@ -4,7 +4,7 @@
 The Illinois Young Hams (ILYH) is an amateur radio club based out of Chicagoland with the goal of uniting the amateur youth across the Prairie State.
 
 ## Where have we been?
-The ILYH was founded in 2020 by Graham Brody, and went dormant after Covid.
+The ILYH was founded in 2020 by KD9NTQ, and went dormant after Covid.
 
 - 2020 | Founded
 - 2021 | Peak of Activity
