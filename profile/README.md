@@ -9,4 +9,4 @@ The ILYH was founded in 2020 by KD9NTQ, and went dormant after Covid.
 - 2020 | Founded
 - 2021 | Peak of Activity
 - 2022-2026 | Dormancy
-- 2026 | Revitalized by another young ham with a vision like Graham's.
+- 2026 | Revitalized by another young ham with the vision as the founder.
